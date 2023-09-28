@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1293abcf-12a0-4e33-bb9b-c4e70e35d7f1" name="Changes" comment="Portfolio Massi">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Wedgewood.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_form/contact_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/animations.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/css/brands.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/css/brands.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/css/fontawesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/css/fontawesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/css/regular.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/css/regular.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/css/solid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/css/solid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/css/svg-with-js.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/css/svg-with-js.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/css/v4-shims.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/css/v4-shims.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/linear-icons-font/fonts/Linearicons-Free.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/linear-icons-font/fonts/Linearicons-Free.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/linear-icons-font/fonts/Linearicons-Free.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/linear-icons-font/fonts/Linearicons-Free.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/linear-icons-font/fonts/Linearicons-Free.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/linear-icons-font/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/linecons/fonts/linecons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/linecons/fonts/linecons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/linecons/fonts/linecons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/linecons/fonts/linecons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/linecons/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/linecons/lte-ie7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/linecons/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/perfect-scrollbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/AutoEcole1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/AutoEcole2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/AutoEcole3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Certification Anssi-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Certification Anssi.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Cv Massi Bouaza PortFolio.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_1_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_2_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_3_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_4_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_5_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_6_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_7_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_post_8_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients/client-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients/client-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients/client-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients/client-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients/client-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients/client-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients/client-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/etixdeal1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/etixdeal2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/etixdeal3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/etxway.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hp_bg_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image_tete.jpg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logoMb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/main_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/main_photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/full/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/full/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/full/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/full/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/full/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/full/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/full/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/full/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/full/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sp_photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tadukli.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials/testimonial-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials/testimonial-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials/testimonial-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/imagesloaded.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.5.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.googlemap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.shuffle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/masonry.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modernizr.custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/validator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-2-columns.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-project-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-project-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-project-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ifdj9daKqP8LtxEqTTInDYftS2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Matiere PHP/Massi958.github.io",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1293abcf-12a0-4e33-bb9b-c4e70e35d7f1" name="Changes" comment="" />
+      <created>1670576703649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670576703649</updated>
+      <workItem from="1670576704932" duration="3889000" />
+      <workItem from="1670601132066" duration="4683000" />
+      <workItem from="1670610141050" duration="1745000" />
+      <workItem from="1670690853023" duration="255000" />
+      <workItem from="1670831224570" duration="4572000" />
+      <workItem from="1670847963751" duration="4468000" />
+      <workItem from="1670858069613" duration="496000" />
+      <workItem from="1670859024797" duration="1015000" />
+      <workItem from="1670860061583" duration="405000" />
+    </task>
+    <task id="LOCAL-00001" summary="Portfolio Massi">
+      <created>1670859161777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670859161777</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Portfolio Massi">
+      <created>1670860134604</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670860134604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Portfolio Massi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Portfolio Massi" />
+  </component>
+</project>
